@@ -1,0 +1,7 @@
+server:
+    prot : 3000
+db : 
+    type : 'mongodb'
+    prot : "8000"
+    database: "tasks"
+
